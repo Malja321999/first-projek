@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/first-projek/static/css/main.756af292.css",
+    "main.js": "/first-projek/static/js/main.b988c74f.js",
+    "static/js/787.a40fe38a.chunk.js": "/first-projek/static/js/787.a40fe38a.chunk.js",
+    "static/media/DSC_6591.JPG": "/first-projek/static/media/DSC_6591.16513b4831eeef9bfbae.JPG",
+    "static/media/DSC_6353.JPG": "/first-projek/static/media/DSC_6353.6729e90e68024bf19aec.JPG",
+    "static/media/DSC_6593.JPG": "/first-projek/static/media/DSC_6593.9631fc4050097eb62f93.JPG",
+    "static/media/K4.JPG": "/first-projek/static/media/K4.8c64f18d4bd4a1011374.JPG",
+    "static/media/DSC_6600.JPG": "/first-projek/static/media/DSC_6600.f6c55d716245e0ff99f5.JPG",
+    "static/media/DSC_6589.JPG": "/first-projek/static/media/DSC_6589.6156bc23a9933be0f73d.JPG",
+    "static/media/DSC_6590.JPG": "/first-projek/static/media/DSC_6590.a1a4ca7ada0613e62cd6.JPG",
+    "static/media/K2.JPG": "/first-projek/static/media/K2.6279b0e4f016dbb2363e.JPG",
+    "static/media/K1.JPG": "/first-projek/static/media/K1.9fa9b6607597df684058.JPG",
+    "static/media/K3.JPG": "/first-projek/static/media/K3.df31ff20f04a3c84d915.JPG",
+    "static/media/DSC_6592.JPG": "/first-projek/static/media/DSC_6592.d8168751dc9a7e19e746.JPG",
+    "static/media/K5.JPG": "/first-projek/static/media/K5.5691a03ff9d877740675.JPG",
+    "static/media/Final_Fantasy_VII_Remake_logo2.png": "/first-projek/static/media/Final_Fantasy_VII_Remake_logo2.0902125347325e3d3aa2.png",
+    "static/media/logo.svg": "/first-projek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/first-projek/index.html",
+    "main.756af292.css.map": "/first-projek/static/css/main.756af292.css.map",
+    "main.b988c74f.js.map": "/first-projek/static/js/main.b988c74f.js.map",
+    "787.a40fe38a.chunk.js.map": "/first-projek/static/js/787.a40fe38a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.b988c74f.js"
+  ]
+}
